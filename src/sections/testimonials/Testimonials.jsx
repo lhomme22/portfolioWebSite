@@ -1,9 +1,11 @@
-import './testimonials.css'
+import './testimonials.css';
 
 const Testimonials = () => {
   return (
-    <section id="testimonials"><h2>Testimonials</h2></section>
-  )
-}
+    <section id="testimonials">
+      <h2>Testimonials</h2>
+    </section>
+  );
+};
 
-export default Testimonials
+export default Testimonials;
